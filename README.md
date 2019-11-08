@@ -34,13 +34,27 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the difference between an adaptive website and a fully responsive website?
 
+Adaptive design is based on the fixed layout design(fixed layouts), where as responsive is dynamic and changes to whatever screen size is.
+
+
+
 2. Describe what it means to be mobile first vs desktop first.
+
+Websites are designed mobile screen size and then adapting to bigger sizes are called mobile first.The desktop is design is designing the webiste to desktop applications and then adjusting it to fit mobile
+
 
 3. What does `font-size: 62.5%` in the `html` tag do for us when using `rem` units?
 
+This changes the font-size to 10px. MOst browsers have standard font-size of 16px (Used for responsiveness)
+
 4. How would you describe preprocessing to someone new to CSS?
 
+A pre-processing is a technique of converting a pre=processor scripts to a regular CSS. Preprocessors help reduce the complexities that may come with CSS by keeping the code DRY and organized.
+
+
 5. What is your favorite concept in preprocessing? What is the concept that gives you the most trouble?
+
+Variables and to some extent mixins.
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
